@@ -6,3 +6,5 @@ git commit -m "первая фиксация"
 git branch -M main
 git remote add origin https://github.com/sssr1991/git4.git
 git push -u origin main
+
+commit100
